@@ -75,15 +75,9 @@ spoof-detection-app/
 
 ## 📸 Sample Web Page Screenshots
 
-### Result 
 <p align="center">
-  <img width="800" alt="Screenshot 2025-06-18 at 9 20 50 PM" src="https://github.khoury.northeastern.edu/jinggghui/CS5330_Su25_Group4/assets/19718/a67680c3-a137-4923-86c1-dcd379152101">
+  <img src="spoof_demo1.png" width="45%"/>
+  <img src="spoof_demo2.png" width="45%"/>
 </p>
-
-### History
-<p align="center">
-   <img width="800" alt="Screenshot 2025-06-18 at 2 49 46 PM" src="https://github.khoury.northeastern.edu/jinggghui/CS5330_Su25_Group4/assets/19718/e964f91d-60f1-4579-bfd7-7e00e29b37e5">
-</p>
-
 
 ---
