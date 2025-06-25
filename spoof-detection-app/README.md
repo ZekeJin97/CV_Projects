@@ -76,8 +76,9 @@ spoof-detection-app/
 ## 📸 Sample Web Page Screenshots
 
 <p align="center">
-  <img src="spoof_demo1.png" width="45%"/>
-  <img src="spoof_demo2.png" width="45%"/>
+  <img src="spoof_demo1.png" width="100%"/>
+   
+  <img src="spoof_demo2.png" width="100%"/>
 </p>
 
 ---
