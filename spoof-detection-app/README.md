@@ -74,10 +74,6 @@ spoof-detection-app/
 ---
 
 ## 📸 Sample Web Page Screenshots
-### Main Page
-<p align="center">
-  <img width="800" alt="Screenshot 2025-06-18 at 9 46 10 PM" src="https://github.khoury.northeastern.edu/jinggghui/CS5330_Su25_Group4/assets/19718/f98b5167-0230-4a99-87d8-ac0bdaf75c66">
-</p>
 
 ### Result 
 <p align="center">
@@ -89,9 +85,5 @@ spoof-detection-app/
    <img width="800" alt="Screenshot 2025-06-18 at 2 49 46 PM" src="https://github.khoury.northeastern.edu/jinggghui/CS5330_Su25_Group4/assets/19718/e964f91d-60f1-4579-bfd7-7e00e29b37e5">
 </p>
 
-### About Page
-<p align="center">
-   <img width="800" alt="Screenshot 2025-06-18 at 2 50 15 PM" src="https://github.khoury.northeastern.edu/jinggghui/CS5330_Su25_Group4/assets/19718/565681ee-1034-4c65-a190-1abbc02c0028">
-</p>
 
 ---
