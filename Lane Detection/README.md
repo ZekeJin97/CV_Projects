@@ -1,6 +1,4 @@
 # Lane Detector 🛣️
-## LINK TO TESTS DEMO: https://drive.google.com/file/d/12XqwEq4cCWp9TBWe0cvOoQH39IoUCnvZ/view?usp=sharing
-## LINK TO REAL ROAD DEMO: https://drive.google.com/file/d/1o9BL9388RkuBh0n-dCV7dKzDVl82LGdT/view?usp=sharing
 
 This project implements a lane detection system using OpenCV. The system detects the **left and right lane lines** in a video feed using edge detection, ROI masking, and Hough Transform.
 
