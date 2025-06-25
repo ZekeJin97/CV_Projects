@@ -2,31 +2,6 @@
 
 An interactive **Flask** web application for image-based face anti-spoofing. Simply upload any face photo and the app fuses multiple visual cues—texture, depth, facial patches, and boundary consistency—to classify your image as **REAL** or **FAKE**.
 
----
-
-## Demo Video:
-https://northeastern.zoom.us/rec/share/ZSk037qcZWyLbQFEHT8cBG11-nnkEfSBGnqbA98v1aH34HngcStsv_jswJIGoOgi.ODOrwfIxA86YoyKt
-Passcode: heWNY3$u
-
----
-
-## 🧑‍🤝‍🧑 Team
-<p align="center">
-  <img src="https://github.khoury.northeastern.edu/jinggghui/CS5330_Su25_Group4/assets/19718/07dc0fba-2121-4059-83e2-ff5c501777b4" alt="group4" width="400" />
-</p>
-
-
-This project was built by four CS5330 students at Northeastern University:
-
-* Chieh‑Han Chen
-* Jing Hui Ng
-* Zhechao Jin
-* Feiyan Zhou
-
----
-
-## 🚀 Live Demo
-
 ```bash
 cd spoof-detection-app
 python app.py
