@@ -33,7 +33,7 @@ Model 9-2, Mobilenet : https://drive.google.com/file/d/1Di9vOHGrfLrmKAgg66aIXbLk
 ### Assignment 9-2
 ![Assignment 9-2 Training Metrics](assignment_9_2_training_metrics.png)
 
----
+----
 
 ## 🧪 Test Results
 
