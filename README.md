@@ -1,8 +1,6 @@
 # YOLOv5 + Lucas-Kanade Optical Flow Tracking
 
 This project integrates **YOLOv5 object detection** with **Lucas-Kanade optical flow tracking using pyramids**.
-Video Demo: https://www.youtube.com/watch?v=PzZPq7btsKo
-
 
 ---
 
