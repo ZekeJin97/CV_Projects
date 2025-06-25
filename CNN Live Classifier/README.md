@@ -1,9 +1,5 @@
-# 🧠 Mini-Project 8: Live Classifier
+# Live Classifier
 
-## 👥 Project Members: 
-- Implementation: Chieh-Han Chen, Jing Hui Ng
-- Testing:  Zhechao Jin, Feiyan Zhou
-  
 ## 📸 Overview
 This is a real-time object classification system using a Convolutional Neural Network (CNN). The system will classify objects in live video feed, frame by frame, into predefined classes such as remote control, cell phone, TV, and computer keyboard. The project involves collecting and preprocessing a dataset, designing and training a CNN model, applying the model to live webcam feed, and displaying the classified objects in real-time.
 
@@ -16,8 +12,6 @@ Model trained under: https://github.khoury.northeastern.edu/jinggghui/CS5330_Su2
 - 🎮 Remote Control - 200 images
 - 🖥️ TV - 200 images
 - ⌨️ Computer Keyboard - 200 images
-  
-Dataset is excluded from Git. Access it via this link: 📥 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/1yz2XpPtNxpylcGuw_O5Sj0JnEYBV1mVf?usp=share_link)
 
 All images were located in inside the datasets/raw/ directory. Each image was:
 
