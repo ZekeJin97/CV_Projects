@@ -1,11 +1,4 @@
-# Mini-Project 10: Enhanced U-Net for Dubai Aerial Imagery Segmentation
-
-## Team Information
-- **Project**: Enhanced U-Net for Dubai Aerial Imagery Segmentation
-- **Course**: CS 5330 Pattern Recognition and Computer Vision
-- **Team Members**: Feiyan Zhou, Zhechao Jin, Testing: Chieh-Han Chen, Jing Hui Ng
-- **Date**: 6/16/2025
-- **Dataset**: Dubai Aerial Imagery from MBRSC Satellites
+# Enhanced U-Net for Dubai Aerial Imagery Segmentation
 
 ## Project Overview
 
