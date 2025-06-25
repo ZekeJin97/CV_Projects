@@ -1,0 +1,10 @@
+INPUT_FOLDER = "datasets/raw/"
+RESOLUTION = 96
+IMG_SIZE = (RESOLUTION, RESOLUTION)
+IMG_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".tiff", ".tif"} # supported image extensions
+TO_RENAME = "computer_keyboard"
+TO_TEST = False
+CELL_PHONE = "cell_phone"
+COMPUTER_KEYBOARD = "computer_keyboard"
+TV = "tv"
+REMOTE_CONTROL = "remote_control"
