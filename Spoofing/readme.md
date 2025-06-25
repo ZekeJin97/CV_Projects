@@ -2,15 +2,6 @@
 
 This project presents a robust image-based face anti-spoofing system that integrates multiple visual features—including texture, depth, facial patches, and boundary cues—into a single fused representation. These features, both handcrafted and learned, are extracted from static RGB images and passed to a lightweight Multi-Layer Perceptron (MLP) classifier to determine whether the input is real or spoofed.
 
-## Demo Video
-https://northeastern.zoom.us/rec/share/ZSk037qcZWyLbQFEHT8cBG11-nnkEfSBGnqbA98v1aH34HngcStsv_jswJIGoOgi.ODOrwfIxA86YoyKt
-Passcode: heWNY3$u
-
-## 🧑‍🤝‍🧑 Team
-* Chieh‑Han Chen (Evaluation and Tuning)
-* Jing Hui Ng (Frontend and Demo App)
-* Zhechao Jin (Model Backbone)
-* Feiyan Zhou（Dataset Collection and Preprocessing）
 ---
 
 ## 📂 Dataset — `balanced_dataset/`  
