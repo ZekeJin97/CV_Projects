@@ -110,7 +110,7 @@ Each feature type is L2-normalized before weighted combination and fed to a 4-la
 
 # Samples
 <p align="center">
-  <img src="realtest1.png" width="45%"/>
+  <img src="realttest1.png" width="45%"/>
   <img src="realtest2.png" width="45%"/>
    <img src="faketest1.png" width="45%"/>
      <img src="faketest2.png" width="45%"/>
