@@ -1,0 +1,41 @@
+{
+  "classes": [
+    {
+      "title": "Land (unpaved area)",
+      "color": "#8429F6",
+      "shape": "polygon",
+      "geometry_config": {}
+    },
+    {
+      "title": "Road",
+      "color": "#6EC1E4",
+      "shape": "polygon",
+      "geometry_config": {}
+    },
+    {
+      "title": "Water",
+      "color": "#E2A929",
+      "shape": "polygon",
+      "geometry_config": {}
+    },
+    {
+      "title": "Unlabeled",
+      "color": "#9B9B9B",
+      "shape": "polygon",
+      "geometry_config": {}
+    },
+    {
+      "title": "Vegetation",
+      "color": "#FEDD3A",
+      "shape": "polygon",
+      "geometry_config": {}
+    },
+    {
+      "title": "Building",
+      "color": "#3C1098",
+      "shape": "polygon",
+      "geometry_config": {}
+    }
+  ],
+  "tags": []
+}
