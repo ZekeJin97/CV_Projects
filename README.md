@@ -1,4 +1,4 @@
-# Mini-Project 10: Enhanced U-Net for Dubai Aerial Imagery Segmentation
+# Enhanced U-Net for Dubai Aerial Imagery Segmentation
 
 ## Team Information
 - **Project**: Enhanced U-Net for Dubai Aerial Imagery Segmentation
