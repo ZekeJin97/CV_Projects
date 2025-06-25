@@ -74,10 +74,11 @@ spoof-detection-app/
 ---
 
 ## 📸 Sample Web Page Screenshots
+### RESULT
 
 <p align="center">
   <img src="spoof_demo1.png" width="100%"/>
-   
+   ### History
   <img src="spoof_demo2.png" width="100%"/>
 </p>
 
